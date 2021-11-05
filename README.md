@@ -1,6 +1,6 @@
 # Programación de Servicios y Procesos - 03 Programación de comunicaciones en red
 
-Tema 03 Programación de comunicaciones en red. Curso 2021/2022.
+Tema 03. Programación de comunicaciones en red. Curso 2021/2022.
 
 ![imagen](https://antarestrade.world/wp-content/uploads/2020/08/Blockcain-Seo.png)
 
